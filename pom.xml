@@ -50,7 +50,7 @@
 	<module>Admin-Service</module>
 	<module>Api-Gateway-Service</module>
 	<module>Config-Service</module>
-	<module>Report-Service</module>
+
 	
 	
 	</modules>
